@@ -12,4 +12,5 @@ Hi, my name is João Gabriel, and I live in Brazil. I am currently studying Syst
 
 ### Fiero App
 <img src= "https://github.com/JoaoGabrielBiazus/JoaoGabrielBiazus/blob/main/Group%20882.png" width="256"/>
+![Joao Gabriel Biazus's GitHub stats](![Joao Gabriel Biazus's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoGabrielBiazus&show_icons=true&theme=deafult))
 https://l1nk.dev/JUt5b
