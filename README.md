@@ -11,7 +11,6 @@ Hi, my name is João Gabriel, and I live in Brazil. I am currently studying Syst
 ## Examples of work
 
 ### Fiero App
-<img src= "https://github.com/JoaoGabrielBiazus/JoaoGabrielBiazus/blob/main/Group%20882.png" width="256"/>
+[<img src="https://github.com/JoaoGabrielBiazus/JoaoGabrielBiazus/blob/main/Group%20882.png" width="256">]([http://google.com.au/](https://l1nk.dev/JUt5b))
 
-[![FieroApp](https://github.com/JoaoGabrielBiazus/JoaoGabrielBiazus/blob/main/Group%20882.png)](https://l1nk.dev/JUt5b)
 
