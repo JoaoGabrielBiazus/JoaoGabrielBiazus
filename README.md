@@ -11,7 +11,7 @@ Hi, my name is João Gabriel, and I live in Brazil. I am currently studying Syst
 ## Apps on App Store
 
 ### Fiero App
-[<img alt="alt_text" width="256px" src="https://github.com/JoaoGabrielBiazus/JoaoGabrielBiazus/blob/main/Group%20882.png" />](https://l1nk.dev/JUt5b)
+[<img alt="alt_text" width="256px" src="https://github.com/JoaoGabrielBiazus/JoaoGabrielBiazus/blob/main/Group%20882.png" />](https://apps.apple.com/br/app/fiero-desafie-seus-amigos/id1635658054)
 ### Industries Park App
 [<img alt="alt_text" width="256px" height= "450" src="https://github.com/JoaoGabrielBiazus/JoaoGabrielBiazus/blob/main/Industries.png" />](https://apps.apple.com/br/app/industries-park/id1591707077)
 
