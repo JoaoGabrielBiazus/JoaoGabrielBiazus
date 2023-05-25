@@ -12,5 +12,6 @@ Hi, my name is João Gabriel, and I live in Brazil. I am currently studying Syst
 
 ### Fiero App
 [<img src="https://github.com/JoaoGabrielBiazus/JoaoGabrielBiazus/blob/main/Group%20882.png" width="256">]([http://google.com.au/](https://l1nk.dev/JUt5b))
+[<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.google.com/)
 
 
